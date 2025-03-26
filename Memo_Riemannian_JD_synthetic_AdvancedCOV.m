@@ -6,7 +6,7 @@ Fs=1000;
 chanlocX=EEG.lf.GridLoc(:,1)';
 chanlocY=EEG.lf.GridLoc(:,2)';
 chanlocZ=EEG.lf.GridLoc(:,3)';
-% Source IDs
+%  Source IDs
 for i_source=1:2004
     sourceIDs{i_source}=i_source;
 end
