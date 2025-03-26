@@ -21,4 +21,4 @@ Please note that the provided folders, **Created Functions** and **Dependencies*
 
 
 
-_We note that the synthetic data generation process is based on random processes. Hence, minor differences may be observed._
+_We note that the synthetic data generation process is based on random processes. Hence, minor differences may occur._
